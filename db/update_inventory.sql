@@ -1,0 +1,1 @@
+UPDATE inventory set DESCRIPTION = $2 WHERE id = $1
